@@ -15,7 +15,7 @@ Add a few sentences stating why this cookbook will be useful. What skills will y
 
 ## Authors
 
-[First Author](Debanjana das), [Second Author](@second-author), etc. _Acknowledge primary content authors here_
+[Debanjana das](@first-author), [Second Author](@second-author), etc. _Acknowledge primary content authors here_
 
 ### Contributors
 
