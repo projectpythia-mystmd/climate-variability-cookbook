@@ -14,7 +14,7 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Authors
 
-[First Author](@debanjana das), [Second Author](@second-author), etc. _Acknowledge primary content authors here_
+[First Author](Debanjana das), [Second Author](@second-author), etc. _Acknowledge primary content authors here_
 
 ### Contributors
 
