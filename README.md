@@ -1,6 +1,6 @@
 <img src="thumbnail.png" alt="thumbnail" width="300"/>
 
-# (Climate-Variability) Cookbook
+# Climate-Variability-Extremes Cookbook
 
 [![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
@@ -10,7 +10,7 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Motivation
 
-(Understanding what drives climate variability and extremes is crucial for our future. Are these changes due to natural processes, or are human activities like greenhouse gas emissions and aerosols the main culprits? Moreover, how do these drivers impact regions differently compared to the global scale? The CESM2 Single Forcing Large Ensemble (CESM2-SF-LE) project allows us to dig into these questions by isolating the effects of different climate factors. 
+Understanding what drives climate variability and extremes is crucial for our future. Are these changes due to natural processes, or are human activities like greenhouse gas emissions and aerosols the main culprits? Moreover, how do these drivers impact regions differently compared to the global scale? The CESM2 Single Forcing Large Ensemble (CESM2-SF-LE) project allows us to dig into these questions by isolating the effects of different climate factors. 
 Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
 
 ## Authors
