@@ -5,3 +5,15 @@ dependencies:
   - jupyter-book
   - jupyterlab
   - sphinx-pythia-theme
+  - matplotlib
+  - xarray
+  - numpy
+  - intake
+  - cartopy
+  - scikit-learn
+  - pandas
+  - pip: 
+    - pyclimdex
+    - xclim 
+  
+  
