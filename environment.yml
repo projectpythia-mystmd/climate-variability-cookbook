@@ -5,3 +5,20 @@ dependencies:
   - jupyter-book
   - jupyterlab
   - sphinx-pythia-theme
+  - matplotlib
+  - xarray
+  - numpy
+  - intake
+  - cartopy
+  - scikit-learn
+  - pandas
+  - intake-esm
+  - aiohttp
+  - s3fs
+  - zarr
+  - fsspec
+  - pip: 
+    - pyclimdex
+    - xclim 
+  
+  

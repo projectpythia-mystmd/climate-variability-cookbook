@@ -7,3 +7,6 @@ parts:
   - caption: Introduction
     chapters:
       - file: notebooks/notebook-template
+  - caption: Data Loading
+    chapters:
+      - file: notebooks/CESM2_LENS2_AWS
