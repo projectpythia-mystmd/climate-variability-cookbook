@@ -12,6 +12,7 @@ dependencies:
   - cartopy
   - scikit-learn
   - pandas
+  - intake-esm
   - pip: 
     - pyclimdex
     - xclim 
